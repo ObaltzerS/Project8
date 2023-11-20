@@ -5,7 +5,6 @@
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
 
-/ViewingActivity.csv
 /*.csv
 
 .ipynb_checkpoints
