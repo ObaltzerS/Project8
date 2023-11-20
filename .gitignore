@@ -10,6 +10,7 @@
 *.xml
 *.xlsx
 *.txt
+TimeStamps
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
